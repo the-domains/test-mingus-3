@@ -1,0 +1,28 @@
+name: Test Mingus 3
+favicon: null
+layout_spectrum: 0.9576246824581176
+typography_spectrum: 0.9083978806156665
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.4671857168432325
+  lightness: 0.4754729887936264
+  saturation: 0.7420517480932176
+  rhythmicContrast: 0.2953882650472224
+purpose: []
